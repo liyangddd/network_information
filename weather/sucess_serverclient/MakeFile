@@ -1,0 +1,4 @@
+环境：CnetOS 64bit
+语言：C语言
+编译：gcc -lm cJSON.c server.c -o server、gcc client.c -o client
+运行：./server、./client

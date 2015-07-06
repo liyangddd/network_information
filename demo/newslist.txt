@@ -1,0 +1,4 @@
+===========NEWS_LIST2014-07-02 16:06:51============
+SINA###视频：金鹰奖入围电视文艺《四川新春联欢晚会》###/home/yang/C++/test_client/dataNews/20140702/SINA-2.txt###1404288143.0
+SINA###昆仑国际:英镑持续走强  有望升至1.72###/home/yang/C++/test_client/dataNews/20140702/SINA-1.txt###1404288147.0
+SINA###视频：金鹰奖入围电视文艺《2014天津春节晚会》###/home/yang/C++/test_client/dataNews/20140702/SINA-0.txt###1404288338.0
